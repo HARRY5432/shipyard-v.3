@@ -1,0 +1,10 @@
+﻿{
+  "apiKey": "test-api-key-for-development-only",
+  "authDomain": "shipyards-dev.firebaseapp.com",
+  "projectId": "shipyards-dev",
+  "storageBucket": "shipyards-dev.appspot.com",
+  "messagingSenderId": "123456789",
+  "appId": "1:123456789:web:abcdef123456",
+  "measurementId": "G-TEST-MEASUREMENT-ID",
+  "firestoreDatabaseId": "(default)"
+}
